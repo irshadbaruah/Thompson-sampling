@@ -1,2 +1,2 @@
 # Thompson-sampling
-Ads....
+Ads analysis
